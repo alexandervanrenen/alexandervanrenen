@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandervanrenen
 - 👀 I’m interested in databases and games
-- 🌱 I’m currently learning python and history
-- 💞️ I’m looking to collaborate on nothing, I am employed
+- 🌱 I’m currently learning about AI and history
+- 💞️ I'm always happy to collaborate on worthwhile projects
 - 📫 How to reach me? you don't reach me, I reach you!
 
 <!---
